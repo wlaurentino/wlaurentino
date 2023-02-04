@@ -13,7 +13,7 @@ A big tech enthusiast in software testing and quality.
 
 <img height=160px src="https://github-readme-stats.vercel.app/api?username=wlaurentino&theme=dracula">
 <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlaurentino&theme=dracula&layout=compact">
-<img height=160x  src="https://github-readme-streak-stats.herokuapp.com/?user=wlaurentino&theme=dark" alt="wlaurentino"/>
+<!-- <img height=160x  src="https://github-readme-streak-stats.herokuapp.com/?user=wlaurentino&theme=dark" alt="wlaurentino"/> -->
 
 
 
